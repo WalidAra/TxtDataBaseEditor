@@ -31,7 +31,7 @@ class Vol
             cout << " --> Departure date : ";
             cin >> this->Departure_date;
 
-            cout << " --> Arrival date ";
+            cout << " --> Arrival date : ";
             cin >> this->Arrival_date;
 
             cout << " --> Departure city : ";
